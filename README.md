@@ -1,1 +1,0 @@
-# Quate-Genrator
